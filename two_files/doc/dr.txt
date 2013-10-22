@@ -1,0 +1,35 @@
+ex06
+
+9/10
+
+pas besoin de dossier avec le nom two_files
+
+utiliser les types pour les paramètres de fonctions
+
+(-1)
+ConvertNumberGrades
+->
+convertNumberGrades
+calcule_age
+->
+calculeAge
+Trilisteclub
+->
+triListeClub
+
+____________________ exo 1 test ___________________________
+true
+true pour quel mot ?
+
+____________________ exo 2 test ___________________________
+7614
+de quoi ?
+
+___________________ exo 3 test ____________________________
+B+
+pour quelle note ?
+
+
+
+
+
